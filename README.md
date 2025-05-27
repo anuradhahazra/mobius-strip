@@ -12,7 +12,7 @@ This project models a Möbius strip using parametric equations and computes key 
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/mobius-strip.git
+   git clone https://github.com/anuradhahazra/mobius-strip.git
    cd mobius-strip
 2. Install all dependencies
    pip install -r requirements.txt
