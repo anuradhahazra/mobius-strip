@@ -27,5 +27,7 @@ Enter Resolution n (default 300): 500
 
 Surface Area ≈ 0.00006
 Edge Length ≈ 25.10492
+![image](https://github.com/user-attachments/assets/ee878a87-6a37-4a25-8381-3de327cd37fe)
+
 
 
